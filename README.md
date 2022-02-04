@@ -1,4 +1,4 @@
-# Challenge 1 - Super Configuration Management System (SCMS)
+# Super Configuration Management System (SCMS)
 
 ## Intro
 
