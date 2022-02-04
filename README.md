@@ -8,7 +8,7 @@ Un operador (administrador en principio) puede registrar distintas Aplicaciones 
 
 Estos valores de configuración pueden ser consultados por cada Aplicación registrada mediante una integración REST usando credenciales que se le asignen dentro de nuestro sistema.
 
-Representación del sistema:
+Representación del sistema:  
 ![diagrama](scms.png)
 
 Ejemplo:
